@@ -1,0 +1,10 @@
+//generics interface
+
+{
+
+    
+
+    
+
+
+}
