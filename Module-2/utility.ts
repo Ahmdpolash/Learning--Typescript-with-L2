@@ -24,5 +24,11 @@ const NewPerson: ReadOnlyProps = {
   home: 8585,
 };
 
+type myObj = Record<string, string>;
+const EmptyObj: Record<string, unknown> = {};
 
-
+const MyObj1: myObj = {
+  name: "polash",
+  age: "19",
+  home: "8585",
+};
